@@ -1,4 +1,4 @@
-#프로그래머스 LEVEL1 코딩테스트 연습 "프로그래머스 LEVEL1 코딩테스트 연습"
+#프로그래머스 LEVEL1 코딩테스트 연습 "정수 제곱근 판별"
 
 import math
 def solution(n):
